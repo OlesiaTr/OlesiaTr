@@ -24,7 +24,8 @@ Playwright · Vitest · Storybook · Claude Code · MCP · Sanity
 | [invoice-inbox](https://github.com/OlesiaTr/invoice-inbox) | Invoice processing end to end — upload, async extraction with a local LLM, live status over GraphQL subscriptions, and an AI assistant that takes actions behind a human confirmation. NestJS · pgmq · Postgres LISTEN/NOTIFY · React. [Live demo](https://invoice-inbox-bice.vercel.app) |
 | [wikipedia-trends](https://github.com/OlesiaTr/wikipedia-trends) | An agent skill that reads Wikipedia pageview trends to decide which topics to build and which language markets to enter. |
 
-Two sites I built and still maintain: [acmhs.in.ua](https://acmhs.in.ua) — Lighthouse mobile
-98 / SEO 100 / Best Practices 100, now running on a Sanity CMS so editors publish without a deploy.
+A site I designed, built and still maintain: [acmhs.in.ua](https://acmhs.in.ua) — Next.js,
+now on a Sanity CMS so editors publish without a deploy. Lighthouse mobile, measured on
+production: **98 performance · 100 accessibility · 100 best practices · 100 SEO**, CLS 0.
 
 **Reach me** — [LinkedIn](https://linkedin.com/in/olesia-trebina) · [Telegram](https://t.me/olesiatrebina) · olesiatrebina@gmail.com
